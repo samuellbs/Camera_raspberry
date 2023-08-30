@@ -20,7 +20,26 @@ COLOCAR ESQUEMA ELÉTRICO AQUI E DIAGRAMA DE BLOCOS
 
 #  ⚙️ Funcionamento do sistema
 
-Para implementação do sistema, utilizou-se o software OpenSource da HomeBridge com a câmera 5mp do Raspberry Pi 4. 
+Para implementação do sistema, utilizou-se o software OpenSource da HomeBridge com a câmera 5mp do Raspberry Pi 4. A primeira etapa para funcionamento do sistema está descrita abaixo:
+
+1. Baixe o Raspberry Pi Imager e o abra;
+2. Abra a opção "Operating System" e seleicone "Other specific purpose OS";
+3. Selecione a categoria de "Automação Residencial";
+4. Selecione "HomeBridge, logo depois selecione o SD Card e escreva.
+
+A segunda etapa é realizar a conexão do aplicativo da HomeBridge com o WiFi do local que o sistema será implementado. Desse modo, realizou-se os seguintes passos:
+
+1. Ligar o Raspberry Pi 4 com teclado, mouse e monitor;
+2. Realizar o login no programa HomeBridge, utilizando o nome de usuário Pi e a senha Raspberry;
+3. Estabelecer a conexão WiFi (apenar a de 2.4GHz);
+4. Logo depois de estabelecer a conexão, o programa fornece um código de oito dígitos que deve ser anotado;
+5. No dispositivo Apple, o aplicativo "Casa" deve ser aberto e selecionar no campo superior "Adicionar Acessório";
+6. Ao clicar em "Adicionar Acessório", é necessário digitar o código anotado na etapa 4;
+7. O programa reconhece dois dispositivos (Raspberry Pi Câmera e HomeBridge).
+8. A conexão foi realizada com sucesso.
+   
+Por fim, as imagens capturadas pela câmera podem ser visualizadas em tempo real de duas maneiras. A primeira é pelo aplicativo "Casa" ou pode ser acessada pelo "Centro de Controle" em qualquer dispositivo Apple vinculado ao mesmo ID Apple.
+
 
 
 
