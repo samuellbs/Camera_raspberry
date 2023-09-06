@@ -44,6 +44,7 @@ Por fim, as imagens capturadas pela câmera podem ser visualizadas em tempo real
 
 ![case_2](https://github.com/samuellbs/Camera_raspberry/assets/103770785/6563679f-f0ad-4143-a7ca-189522b41e3f)
 
+https://github.com/samuellbs/Camera_raspberry/assets/103770785/65fd9b02-d808-4a7e-b442-362d93cb504b
 
 
 
