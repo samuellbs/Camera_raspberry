@@ -38,7 +38,12 @@ A segunda etapa é realizar a conexão do aplicativo da HomeBridge com o WiFi do
 7. O programa reconhece dois dispositivos (Raspberry Pi Câmera e HomeBridge).
 8. A conexão foi realizada com sucesso.
    
-Por fim, as imagens capturadas pela câmera podem ser visualizadas em tempo real de duas maneiras. A primeira é pelo aplicativo "Casa" ou pode ser acessada pelo "Centro de Controle" em qualquer dispositivo Apple vinculado ao mesmo ID Apple.
+Por fim, as imagens capturadas pela câmera podem ser visualizadas em tempo real de duas maneiras. A primeira é pelo aplicativo "Casa" ou pode ser acessada pelo "Centro de Controle" em qualquer dispositivo Apple vinculado ao mesmo ID Apple. Como também, realizamos a impressão 3D de uma case para proteger a câmera e melhorar sua estética. Abaixo estão imagens e vídeos que demonstram o funcionamento.
+
+![case_1](https://github.com/samuellbs/Camera_raspberry/assets/103770785/1559aac7-acb3-4a73-87ef-df5b6e97a576)
+
+![case_2](https://github.com/samuellbs/Camera_raspberry/assets/103770785/6563679f-f0ad-4143-a7ca-189522b41e3f)
+
 
 
 
