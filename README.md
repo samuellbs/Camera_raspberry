@@ -14,11 +14,11 @@ A proposta desse projeto é a implementação de um sistema de monitoramento 24 
 
 A tabela abaixo indica os componentes utilizados, bem como o preço deles (30/08/2023). Dessa maneira, é possível realizar um levantamento de custos. É importante ressaltar que não foram inclusos dispositivos Apple, mas é um material obrigatório para o sistema.
 
-![image](https://github.com/samuellbs/Camera_raspberry/assets/103770785/5b0ba676-8ccc-4689-94f4-4617c6158058)
+![Captura de tela 2023-09-11 211616](https://github.com/samuellbs/Camera_Rasp/assets/103770785/b1a81731-6f12-4745-911b-da8c26c12a7a)
 
 A figura abaixo representa o diagrama de blocos do sistema.
 
-![image](https://github.com/samuellbs/Camera_raspberry/assets/103770785/5f4e8c19-f946-4c51-9400-cd477197318d)
+![image](https://github.com/samuellbs/Camera_Rasp/assets/103770785/63ca8ebe-0c5a-48c8-9d98-0d1ea1a07e76)
 
 #  ⚙️ Funcionamento do sistema
 
@@ -42,12 +42,11 @@ A segunda etapa é realizar a conexão do aplicativo da HomeBridge com o WiFi do
    
 Por fim, as imagens capturadas pela câmera podem ser visualizadas em tempo real de duas maneiras. A primeira é pelo aplicativo "Casa" ou pode ser acessada pelo "Centro de Controle" em qualquer dispositivo Apple vinculado ao mesmo ID Apple. Como também, realizamos a impressão 3D de uma case para proteger a câmera e melhorar sua estética. Abaixo estão imagens e vídeos que demonstram o funcionamento.
 
-![case_1](https://github.com/samuellbs/Camera_raspberry/assets/103770785/1559aac7-acb3-4a73-87ef-df5b6e97a576)
+![case_1](https://github.com/samuellbs/Camera_Rasp/assets/103770785/f286963a-6cc2-4802-a0fa-77a4caf6faab)
 
-![case_2](https://github.com/samuellbs/Camera_raspberry/assets/103770785/6563679f-f0ad-4143-a7ca-189522b41e3f)
+![case_2](https://github.com/samuellbs/Camera_Rasp/assets/103770785/498979ed-6fc3-4ccb-96a0-06bf865ee50d)
 
-https://github.com/samuellbs/Camera_raspberry/assets/103770785/65fd9b02-d808-4a7e-b442-362d93cb504b
-
+https://github.com/samuellbs/Camera_Rasp/assets/103770785/f57c22b2-374b-4981-b463-2f1e159b3a97
 
 
 
